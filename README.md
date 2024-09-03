@@ -1,4 +1,4 @@
 # training-project
 this is my first git training project
 <br>
-Author-Ankit Rathod
+Author-Ankit Rathod 1
