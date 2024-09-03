@@ -1,0 +1,14 @@
+{
+  "name": "training-project",
+  "version": "1.0.0",
+  "description": "this is my first git training project\r <br>\r Author-Ankit Rathod 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
